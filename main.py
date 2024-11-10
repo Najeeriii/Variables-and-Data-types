@@ -1,0 +1,17 @@
+num_1=4
+num_2=15
+sum=num_1+num_2
+print("sum=",sum)
+print("sub=",(num_2-num_1))
+print("mul=",(num_2*num_1))
+print("div=",(num_2/num_1))
+print("mod=",(num_2%num_1))
+print("floordiv=",(num_2//num_1))
+print("power=",(num_2**num_2))
+'''Type'''
+Re="Well"
+print(type(Re))
+print(float(num_1))
+print(Re[-1])
+print(len(Re))
+print(Re[1:4:1])
